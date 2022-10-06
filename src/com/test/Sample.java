@@ -6,4 +6,10 @@ public class Sample {
 
 		System.out.println("rrrr");
 	}
+	private void empId() {
+
+		System.out.println("222");
+	}
 }
+
+
